@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nathanael Nunes🤙
 
-![NaelNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=NaelNunes&show_icons=true&theme=radical bg_color=)
+![NaelNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=NaelNunes&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaelNunes&layout=donut)](https://github.com/NaelNunes/github-readme-stats)
 
