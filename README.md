@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Nathanael Nunes🤙
 
+## Atualmente estou cursando Sistemas de Informações na UNOESTE
+
+## Sou Técnico em informática para internet
+
 ![NaelNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=NaelNunes&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaelNunes&layout=donut)](https://github.com/NaelNunes/github-readme-stats)
