@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Nathanael Nunes!
 
 ![NaelNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=NaelNunes&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaelNunes&layout=donut)](https://github.com/NaelNunes/github-readme-stats)
 
 <!--
 **NaelNunes/NaelNunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
