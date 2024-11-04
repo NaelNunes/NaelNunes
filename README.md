@@ -54,14 +54,11 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/NaelNunes" target="blank">
+  <a href="https://www.linkedin.com/in/nathanael-nunes-teodoro-a41828276/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://twitter.com/NaelNunes" target="blank">
+  <a href="https://x.com/nael_tiodoro" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="https://dev.to/NaelNunes" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
   </a>
 </p>
 
