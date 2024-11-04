@@ -13,7 +13,7 @@
 - 🌱 Atualmente estou aprendendo: **Node.js, Express, APIs REST**
 - 👨‍💻 Todos os meus projetos estão disponíveis em [Meu Portfólio](https://github.com/NaelNunes?tab=repositories)
 - 💬 Pergunte-me sobre: **JavaScript, Node.js, APIs, Frontend e Backend**
-- 📫 Como me encontrar: **seu.email@exemplo.com**
+- 📫 Como me encontrar: **nathanaelnunesteodoro@gmail.com**
 
 ---
 
