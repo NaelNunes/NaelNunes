@@ -26,10 +26,10 @@
   <img src="https://img.shields.io/badge/Framework-Express-lightgrey?style=for-the-badge&logo=express&logoColor=black" />
   <img src="https://img.shields.io/badge/Tools-Insomnia-blueviolet?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markup-HTML-blue?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-darkblue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-darkgreen?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-CSS-darkorange?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markup-HTML-darkred?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 ---
