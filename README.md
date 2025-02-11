@@ -15,5 +15,6 @@ Confira meus repositórios e projetos:
 [Visite meu GitHub](https://github.com/NaelNunes?tab=repositories)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaelNunes&show_icons=true&hide=prs&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaelNunes&layout=compact&theme=radical)](https://github.com/NaelNunes/github-readme-stats)
 
 ---
