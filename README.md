@@ -15,5 +15,3 @@ Confira meus repositórios e projetos:
 [Visite meu GitHub](https://github.com/NaelNunes?tab=repositories)
 
 ---
-
-> "A simplicidade é o último grau de sofisticação." ✨
