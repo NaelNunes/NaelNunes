@@ -22,5 +22,6 @@ Confira meus repositórios e projetos:
   <img src="https://github-profile-trophy.vercel.app/?username=NaelNunes&theme=radical&column=3" alt="GitHub Profile Trophy"/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaelNunes&show_icons=true&hide=prs&count_private=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff)
 
 ---
