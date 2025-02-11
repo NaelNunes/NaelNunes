@@ -10,9 +10,8 @@
 
 ### 🚀 Sobre mim
 
-- 🌱 Atualmente estou aprendendo: **Node.js, C++, JavaScript, Python**
+- 🌱 Atualmente estou aprendendo: **Node.js, C++, JavaScript, Java**
 - 👨‍💻 Todos os meus projetos estão disponíveis em [Meu Portfólio](https://github.com/NaelNunes?tab=repositories)
-- 💬 Pergunte-me sobre: **JavaScript, Node.js, Frontend e Backend, e C++**
 - 📫 Como me encontrar: **nathanaelnunesteodoro@gmail.com**
 
 ---
