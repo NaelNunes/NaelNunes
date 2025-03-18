@@ -4,9 +4,9 @@ Bem-vindo ao meu perfil!
 
 Sou apaixonado por programação e estou sempre em busca de novos desafios. Aqui, você pode encontrar os projetos em que estou trabalhando.
 
-## Tecnologias que utilizo
+## Tecnologias que utilizo e estudo
 
-- **Linguagens**: C++, Node.js, JavaScript, HTML, CSS
+- **Linguagens**: C++, JavaScript, Java, Python, HTML, CSS
 - **Frameworks e Ferramentas**: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/), [VSCode](https://code.visualstudio.com/)
 
 ## Meus Projetos
