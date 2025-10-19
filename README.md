@@ -6,8 +6,8 @@ Sou apaixonado por programação e estou sempre em busca de novos desafios. Aqui
 
 ## Tecnologias que utilizo e estudo
 
-- **Linguagens**: C++, JavaScript, Java, Python, HTML, CSS
-- **Frameworks e Ferramentas**: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/), [VSCode](https://code.visualstudio.com/)
+- **Linguagens**: C++, TypeScript, C#  
+- **Frameworks e Ferramentas**: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/), [ASP.NET](https://dotnet.microsoft.com/pt-br/apps/aspnet)
 
 ## Meus Projetos
 
