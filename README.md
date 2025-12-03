@@ -1,7 +1,7 @@
-# 👋 Hi! I'm **SEU_NOME**
+# 👋 Hi! I'm Nathanael Nunes
 
 <p align="center">
-  <em>Software Engineering Student | Competitive Programming & Cybersecurity Enthusiast</em>
+  <em> Backend Developer and Bachelor’s student in Information Systems</em>
 </p>
 
 <p align="center">
