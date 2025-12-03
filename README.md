@@ -11,8 +11,6 @@
   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Work-green" />
 </p>
 
-<hr/>
-
 ## Tech & Tools
 
 <div align="center">
