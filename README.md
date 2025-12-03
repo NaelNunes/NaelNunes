@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathanael-nunes-teodoro-a41828276/" target="_blank">LinkedIn</a> •
-  <a href="nathanaelnunesteodoro@gmail.com">Email</a>
+  <a href="malito:nathanaelnunesteodoro@gmail.com">Email</a>
 </p>
 
 ---
