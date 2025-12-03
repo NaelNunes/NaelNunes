@@ -26,9 +26,8 @@
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="mailto:seu.email@exemplo.com">Email</a> •
-  <a href="https://github.com/SEU_USERNAME">GitHub</a>
+  <a href="https://www.linkedin.com/in/nathanael-nunes-teodoro-a41828276/" target="_blank">LinkedIn</a> •
+  <a href="nathanaelnunesteodoro@gmail.com">Email</a>
 </p>
 
 ---
