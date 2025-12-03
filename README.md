@@ -21,17 +21,3 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
-
-
-## Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nathanael-nunes-teodoro-a41828276/" target="_blank">LinkedIn</a> •
-  <a href="malito:nathanaelnunesteodoro@gmail.com">Email</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
