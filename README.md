@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   Hello! I'm Nathanael Nunes
-</p>
+</h1>
 
 Bem-vindo ao meu perfil!
 
