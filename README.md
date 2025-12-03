@@ -2,6 +2,10 @@
   Hello! I'm Nathanael Nunes
 </h1>
 
+<h2>
+  Back-end Development Student 
+</h2>
+
 Bem-vindo ao meu perfil!
 
 Sou apaixonado por programação e estou sempre em busca de novos desafios. Aqui, você pode encontrar os projetos em que estou trabalhando.
