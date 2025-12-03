@@ -8,7 +8,6 @@
 
 <p align="center">
   <!-- Badges -->
-  <img alt="Followers" src="https://img.shields.io/github/followers/NaelNunes?style=social" />
   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Work-green" />
 </p>
 
@@ -38,25 +37,20 @@
   <img src="./unoeste-logo.png" alt="Unoeste Logo" width="120" />
 </p>
 
-* 🎓 **Information Systems** student (or *Software Engineering* student)
-* 💻 Back-end development student, focusing on **Node.js**, **Express**, and REST APIs
-* 🏆 Competitive programming enthusiast (practice on Beecrowd / other platforms)
-* 🔐 Interested in cybersecurity, ethical hacking and secure systems
-* 🌱 Currently learning advanced algorithms, data structures and cloud fundamentals
+* 🎓 **Information Systems** student
+* 💻 Back-end development student, focusing on ASPNET
 
----
+## 🛠️ Tech & Tools
 
-## 🔧 Tech & Tools
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" />
-</p>
+### Languages & Frameworks  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
+</div>
+
 
 ## 📫 Contact
 
