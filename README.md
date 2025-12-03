@@ -1,4 +1,6 @@
-# 👋 Hi! I'm Nathanael Nunes
+<h1 align="center">
+  Hi! I'm Nathanael Nunes  
+</h1>
 
 <p align="center">
   <em> Backend Developer and Bachelor’s student in Information Systems</em>
@@ -6,8 +8,7 @@
 
 <p align="center">
   <!-- Badges -->
-  <img alt="Followers" src="https://img.shields.io/github/followers/SEU_USERNAME?style=social" />
-  <img alt="Top Langs" src="https://img.shields.io/badge/Top%20Langs-JavaScript%2C-181717?style=flat&logo=github" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/NaelNunes?style=social" />
   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Work-green" />
 </p>
 
