@@ -1,4 +1,6 @@
-# Nathanael Nunes Teodoro 👨‍💻
+<p align="center">
+  Hello! I'm Nathanael Nunes
+</p>
 
 Bem-vindo ao meu perfil!
 
