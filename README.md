@@ -2,7 +2,7 @@
   Hello! I'm Nathanael Nunes
 </h1>
 
-<h2>
+<h2 align="center">
   Back-end Development Student 
 </h2>
 
