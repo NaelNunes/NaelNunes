@@ -1,5 +1,5 @@
 <p align="center">
-  <em> Backend Developer and Bachelor’s student in Information Systems</em>
+  <em> Software Developer and Bachelor’s student in Information Systems</em>
 </p>
 
 <p align="center">
